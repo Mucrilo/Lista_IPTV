@@ -1,3 +1,10 @@
+# Mu
+in/*.m3u
+out/*.xspf
+src/*.ipynb
+src/access.py
+*.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
